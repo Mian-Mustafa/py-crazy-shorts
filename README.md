@@ -21,7 +21,7 @@ And many more **short tricky codes** will be added regularly! ✨
 
 Clone the repository:  
 ```bash
-git clone https://github.com/your-username/py_crazy_short.git
+git clone https://github.com/Mian-Mustafa/py-crazy-shorts
 ````
 
 Navigate into the folder:
@@ -68,7 +68,4 @@ This project is open-source and available under the **MIT License**.
 
 Made with ❤️ by Python enthusiasts!
 
-```
-
-Do you want me to also **add sample outputs/screenshots (like Dice rolling result or Math quiz run)** inside the README to make it look more engaging for GitHub/visitors?
 ```
