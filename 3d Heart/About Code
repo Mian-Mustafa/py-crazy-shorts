@@ -1,5 +1,3 @@
----
-
 # ❤️ Turtle Heart Pattern
 
 This project uses **Python Turtle Graphics** and **math functions** to draw a beautiful animated heart pattern. The code leverages parametric equations of a heart curve to generate multiple red hearts on a black background.
@@ -10,7 +8,6 @@ This project uses **Python Turtle Graphics** and **math functions** to draw a be
 * Uses `turtle` and `math` modules.
 * Smooth animation with multiple scaling effects.
 
-## 📸 Output
 
 
----
+
