@@ -1,5 +1,3 @@
-Got it 👍 Here’s a polished **GitHub README** for your Turtle Heart project, with an image section included:
-
 ---
 
 # ❤️ Turtle Heart Pattern
@@ -22,7 +20,7 @@ This project uses **Python Turtle Graphics** and **math equations** to draw a be
 Clone this repository and run the script:
 
 ```bash
-git clone https://github.com/your-username/heart-pattern.git
+git clone https://github.com/Mian-Mustafa
 cd heart-pattern
 python heart_pattern.py
 ```
@@ -30,13 +28,5 @@ python heart_pattern.py
 ## 📸 Output
 
 Here’s an example output of the program:
+![23](https://github.com/user-attachments/assets/7469c57b-5c08-4c66-a1d4-6ce7598961fc)
 
-![Heart Pattern](images/heart.png)
-
----
-
-✨ You can replace `images/heart.png` with your own screenshot or GIF.
-
----
-
-Do you want me to make this README **super short (1–2 sections only)** or keep it **detailed like this**?
