@@ -14,6 +14,5 @@ It cycles through rainbow colors while drawing, producing a mesmerizing geometri
 
 ## ▶️ Run the Code
 ```bash
-python spiral.py
-![34](https://github.com/user-attachments/assets/4f10855f-c2ba-48f2-941b-af63905227fa)
+
 
