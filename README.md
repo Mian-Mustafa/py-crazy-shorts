@@ -12,7 +12,10 @@ This repository includes small but powerful programs, games, and visual tricks i
 - 🐍💧🪨 **Snake Water Gun** – A twist on Rock Paper Scissors.  
 - ✊🖐✌ **Rock Paper Scissors** – Classic hand game simulation.  
 - ❤️ **3D Heart** – Fun Python graphics with ASCII/3D style.  
-- 😁 **Colorful Turtle Spiral** - fun python graphics 3d style 
+- 😁 **Colorful Turtle Spiral** - fun python graphics 3d style
+- 🌸 **Flower** - Create Flower Animation
+- 🌲🌳**Tree** - tree design
+- and so many other short module
 
 And  ****more **short tricky codes** will be added regularly! ✨  
 
