@@ -21,3 +21,4 @@ python cone_plot.py
 The script will display a 3D orange cone with black edges.
 
 ---
+![Capture](https://github.com/user-attachments/assets/b8e6e07d-4323-4fca-b236-e3fe5875a444)
