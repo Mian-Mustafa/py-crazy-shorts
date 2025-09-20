@@ -1,5 +1,3 @@
-
-````markdown
 # 🔑 Python Password Generator (Tkinter GUI)
 
 A simple **Password Generator App** built with **Python** and **Tkinter GUI**.  
@@ -16,7 +14,8 @@ This app creates a secure random 8-character password using letters and digits w
 ---
 
 ## 📸 Demo Screenshot
-*(Add your app screenshot here if available)*
+<img width="400" height="400" alt="vlcsnap-2025-09-16-16h29m49s847" src="https://github.com/user-attachments/assets/4aa726a5-5e1d-4aff-8365-a5f9ce75ccce" />
+<img width="400" height="400" alt="vlcsnap-2025-09-16-16h29m50s833" src="https://github.com/user-attachments/assets/99b1d102-0bda-4f1c-8bc9-341fbda90472" />
 
 ---
 
@@ -24,7 +23,7 @@ This app creates a secure random 8-character password using letters and digits w
 1. Clone this repository:
    ```bash
    git clone https://github.com/Mian-Mustafa
-````
+```
 
 2. Navigate into the project folder:
 
@@ -53,11 +52,5 @@ password-generator/
 
 * Python 3.x
 * Tkinter (comes pre-installed with Python)
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
 ---
